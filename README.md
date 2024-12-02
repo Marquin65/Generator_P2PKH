@@ -53,7 +53,7 @@ pip install mnemonic ecdsa base58
 
 ## Observações
 
-- O arquivo `P2PKH.txt` deve conter um endereço Bitcoin por linha.
+- O arquivo `P2PKH.txt` deve conter um endereço Bitcoin P2PKH por linha.
 - O script pode ser ajustado para gerar um número maior ou menor de endereços por execução.
 - Caso o arquivo de imagem de fundo (`imagem_de_fundo.png`) não seja encontrado no diretório, o script usará um fundo preto padrão.
 
